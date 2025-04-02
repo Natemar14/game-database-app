@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+.next/
+out/
+package-lock.json
+
+# Environment variables
+.env.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build files
+build/
+dist/
+
+# Dependency directories created by IDE's
+.idea/
+.vscode/
