@@ -21,3 +21,5 @@ dist/
 # Dependency directories created by IDE's
 .idea/
 .vscode/
+
+generate-secret.js
