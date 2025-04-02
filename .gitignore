@@ -3,6 +3,7 @@ node_modules/
 .next/
 out/
 package-lock.json
+node_modules/@next/swc-win32-x64-msvc/next-swc.win32-x64-msvc.node
 
 # Environment variables
 .env.local
