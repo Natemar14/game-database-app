@@ -28,7 +28,7 @@
     ".next/types/**/*.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "../scoresheet-api/src/index.ts"  ],
   "exclude": [
     "node_modules"
   ]
